@@ -7,11 +7,8 @@ The Homepage has user friendly interface that help you to reach out any section 
 
 
 
-# Login Page
+# Login Page and SignUp Page
 ![Login Page](https://user-images.githubusercontent.com/87319402/147824508-11c24fe1-3245-448d-8400-9122157656d4.png)
-
-
-# Signup Page
 ![Signup Page](https://user-images.githubusercontent.com/87319402/147824629-09f56199-dd7d-49bd-9d99-1acb58bc330a.png)
 You can create your account by filling the details like your name and email. Once signed in, you will land up on the home page of Coding quizee. You can use your email and password to login in case of an existing user.
 
