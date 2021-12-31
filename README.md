@@ -12,4 +12,4 @@ The Homepage has user friendly interface that help you to reach out any section 
 
 
 # Signup Page
-![Signup Page](https://user-images.githubusercontent.com/87319402/147824508-11c24fe1-3245-448d-8400-9122157656d4.png)
+![Signup Page](https://user-images.githubusercontent.com/87319402/147824629-09f56199-dd7d-49bd-9d99-1acb58bc330a.png)
