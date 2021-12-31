@@ -6,5 +6,5 @@ It's a quiz based on programming languages(C, C++, Java, Python and C#).
 
 
 # Login Page
-![Login Page](https://imgur.com/a/k5KmVIH)
+![Login Page](https://user-images.githubusercontent.com/87319402/147824508-11c24fe1-3245-448d-8400-9122157656d4.png)
 
